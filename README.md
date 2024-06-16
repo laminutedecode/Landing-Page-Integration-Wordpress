@@ -25,7 +25,7 @@ Ce dossier contient l'intégration de la landing page statique avec WordPress en
     git clone https://github.com/votre-utilisateur/LandingPageWordPress.git
     ```
 2. Copiez les dossiers `integration` et `childtheme` dans le répertoire `wp-content/themes` de votre installation WordPress.
-3. Activez le thème parent (dossier `integration`) puis le thème enfant (dossier `childtheme`) depuis l'interface d'administration de WordPress.
+3. Activez le thème parent (dossier `integration`) depuis l'interface d'administration de WordPress.
 4. Importez les configurations ACF incluses dans le dossier `integration/acf-json` en utilisant l'importation de champs personnalisés d'ACF.
 
 ## Utilisation
